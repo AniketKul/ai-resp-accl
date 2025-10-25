@@ -1,0 +1,8 @@
+torch==2.4.0
+torchvision==0.19.0
+torchaudio==2.4.0
+vllm==0.6.3
+gradio==4.44.0
+matplotlib==3.10.7
+pandas==2.3.3
+huggingface_hub==0.36.0
